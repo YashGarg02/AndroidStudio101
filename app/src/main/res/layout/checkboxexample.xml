@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <CheckBox
+        android:id="@+id/checkBox1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/CB1"
+        android:layout_marginTop="60dp"
+
+        android:layout_centerHorizontal="true"/>
+
+    <CheckBox
+        android:id="@+id/checkBox2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/CB2"
+        android:layout_below="@id/checkBox1"
+
+        android:layout_marginTop="40dp"
+        android:layout_centerHorizontal="true"/>
+
+
+    <Button
+        android:id="@+id/cbbutton1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/CBButton1"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="400dp"/>
+</RelativeLayout>

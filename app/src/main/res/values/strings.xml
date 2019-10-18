@@ -1,0 +1,66 @@
+<resources>
+    <string name="app_name">Testing1</string>
+    <string name="TextV1">Select to see their functions:</string>
+    <string name="TextV2">Press button to continue</string>
+ <string name="TextV3">Country Selected :</string>
+
+    <string name="Button1">Next activity</string>
+   <string name="Button2">Refresh</string>
+ <string name="Button3">Close App</string>
+
+
+    <string name="RB1">Toggle Button</string>
+    <string name="RB2">CheckBox</string>
+    <string name="RB3">Custom Checkbox</string>
+    <string name="RB4">Alert Dialog</string>
+    <string name="RB5">Spinner</string>
+    <string name="RB6">AutoCompleteTextView</string>
+    <string name="RB7">ListView</string>
+    <string name="RB8">Custom ListView</string>
+    <string name="RB9">WebView</string>
+    <string name="RB10">SeekBar</string>
+    <string name="RB11">DatePicker</string>
+    <string name="RB12">TimePicker</string>
+    <string name="RB13">Analog and Digital</string>
+    <string name="RB14">Progress Bar</string>
+    <string name="RB15">Horizontal Scroll</string>
+    <string name="RB16">Image Switcher</string>
+    <string name="RB17">Image Slider</string>
+    <string name="RB18">ViewStub</string>
+    <string name="RB19">TabLayout</string>
+    <string name="RB20">Tab With FrameLayout</string>
+    <string name="RB21">SearchView</string>
+    <string name="RB22">SearchView on Toolbar</string>
+    <string name="RB23">EditText with TextWatcher</string>
+
+<!-- toggle button-->
+ <string name="TBButton1">Test Output</string>
+ <string name="TBTV1">Toggle 1 is currently - </string>
+ <string name="TBTV2">Toggle 2 is currently - </string>
+
+<!-- checkbox-->
+ <string name="CBButton1">Test Output</string>
+ <string name="CB1">Mobile</string>
+ <string name="CB2">Watch</string>
+
+<!-- alert dialog-->
+ <string name="dialog_title">Quitting App</string>
+ <string name="dialog_msg">Do you really want to quit?</string>
+
+
+<!--    autocompletetextview-->
+    <string-array name="Languages">
+        <item>Android</item>
+        <item>Aspnet</item>
+        <item>.Net</item>
+        <item>Html</item>
+        <item>Java</item>
+        <item>php</item>
+        <item>python</item>
+        <item>hadoop</item>
+        <item>c</item>
+        <item>c++</item>
+        <item>joomla</item>
+        <item>xcode</item>
+    </string-array>
+</resources>
